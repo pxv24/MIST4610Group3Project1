@@ -32,6 +32,5 @@ Our project models an operational database for the inner managerial workings of 
 <img width="1040" height="296" alt="loyaltytier_dd" src="https://github.com/user-attachments/assets/193c4cf3-81c9-41d8-afc3-4d6d422f47b8" />
 <img width="1036" height="688" alt="loyaltyaccount_dd" src="https://github.com/user-attachments/assets/07f8fe75-04b2-4c59-bf66-b85e507087a7" />
 <img width="1038" height="664" alt="ticket_dd" src="https://github.com/user-attachments/assets/e0d57563-debf-4415-a720-b82e85fc30b3" />
-<img width="1112" height="658" alt="flight_dd" src="https://github.com/user-attachments/assets/ae485713-91ed-499f-8d73-a98cf63b7de7" />
-
+<img width="1034" height="832" alt="flight_dd" src="https://github.com/user-attachments/assets/4521315b-1a8a-4312-802f-c67812e5b5db" />
 
