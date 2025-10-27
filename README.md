@@ -5,7 +5,7 @@ Below is my group's (15058_Group3, F25 3:00 PM) completed MIST 4610 Project 1. T
 15058 Group 3
 
 ## Team Members:
-1. Aidan Combs @acombs122
+1. Aidan Combs@acombs122
 2. Joey Maitran 
 3. Praneet Venigalla 
 4. Cameron White 
