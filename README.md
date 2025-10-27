@@ -14,7 +14,7 @@ Below is my group's (15058_Group3, F25 3:00 PM) completed MIST 4610 Project 1. T
 ## Problem Description:
 Our project models an operational database for the internal managerial workings of a system that coordinates flights, passengers, luggage, routes, and other aspects for multiple airlines.  The core entity in our model is the Flight entity, which serves as the link between routes, planes, tickets, terminals, and other related entities. Each flight represents an instance of an aircraft journey, complete with flight crew staffing information, passenger and luggage lists, and the tickets issued for the flight. The system supports the storage and reporting of day-to-day operations data for airlines, allowing them to keep track of staffing, ticketing, and luggage management in one place.
 
-## Data Model 
+## Data Model Overview
 This data model is composed of fifteen entities, spanning various points of an airline’s operations.
 
 The data model begins with the airport, terminal, terminal_airline_assignment, and airline entities. This database can track flights for airlines at a variety of different airports. Airports can have many terminals, hence why airports have a 1:M relationship with terminals. Furthermore, since airlines can operate out of many terminals, and terminals can house flights for many different airlines, there is an associative entity (terminal_airline_assignment) that is created. 
@@ -43,4 +43,6 @@ Overall, the various entities and attributes that the data model captures provid
 <img width="1036" height="688" alt="loyaltyaccount_dd" src="https://github.com/user-attachments/assets/07f8fe75-04b2-4c59-bf66-b85e507087a7" />
 <img width="1038" height="664" alt="ticket_dd" src="https://github.com/user-attachments/assets/e0d57563-debf-4415-a720-b82e85fc30b3" />
 <img width="1034" height="832" alt="flight_dd" src="https://github.com/user-attachments/assets/4521315b-1a8a-4312-802f-c67812e5b5db" />
+
+#Queries
 
