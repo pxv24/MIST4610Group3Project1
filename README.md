@@ -12,7 +12,7 @@ Below is my group's (15058_Group3, F25 3:00 PM) completed MIST 4610 Project 1. T
 5. Mariam Zaman @mad1amz 
 
 #3 Problem Description:
-Our project models an operational database for the inner managerial workings of a system that coordinates flights, passengers, luggage, routes, etc., for multiple airlines.  The core entity in our model is the Flight entity, which serves as the link between routes, planes, tickets, terminals, etc. Each flight represents an instance of an aircraft journey, complete with flight crew staffing information, passenger and luggage lists, and the tickets issued for the flight. The system supports the storage and reporting of day-to-day operations data for airlines, allowing them to keep track of staffing, ticketing, and luggage management at the same time in one place.
+Our project models an operational database for the internal managerial workings of a system that coordinates flights, passengers, luggage, routes, and other aspects for multiple airlines.  The core entity in our model is the Flight entity, which serves as the link between routes, planes, tickets, terminals, and other related entities. Each flight represents an instance of an aircraft journey, complete with flight crew staffing information, passenger and luggage lists, and the tickets issued for the flight. The system supports the storage and reporting of day-to-day operations data for airlines, allowing them to keep track of staffing, ticketing, and luggage management in one place.
 
 ## Data Model 
 
@@ -20,7 +20,7 @@ Our project models an operational database for the inner managerial workings of 
 ## Data Dictionary
 <img width="1036" height="434" alt="airports_dd" src="https://github.com/user-attachments/assets/3ab3877c-9602-4d8d-98ab-13f43f980d88" />
 <img width="1044" height="386" alt="taa_dd" src="https://github.com/user-attachments/assets/8158d35e-05bd-450a-9b55-33866d75137d" />
-<img width="1042" height="348" alt="terminal_dd" src="https://github.com/user-attachments/assets/2fba052d-067e-4102-9b86-1d81dd1f32a2" />
+<img width="1040" height="360" alt="terminal_dd" src="https://github.com/user-attachments/assets/eafc3ec4-dd53-442f-b221-2b1139e8e048" />
 <img width="1034" height="324" alt="airline_dd" src="https://github.com/user-attachments/assets/4b77523e-464a-411e-a956-a688106ec145" />
 <img width="1046" height="650" alt="employee_dd" src="https://github.com/user-attachments/assets/abf7702a-912c-492a-9e7d-ff1637083e1b" />
 <img width="1044" height="478" alt="plane_dd" src="https://github.com/user-attachments/assets/1637d13e-0c3d-4b68-95c3-6d20c52b9ad8" />
