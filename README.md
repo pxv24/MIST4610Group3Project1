@@ -6,10 +6,11 @@ Below is my group's (15058_Group3, F25 3:00 PM) completed MIST 4610 Project 1. T
 
 ## Team Members:
 1. Aidan Combs @acombs122
-2. Joey Maitran @jbm39435 
+2. Joey Maitran @jbm39435
 3. Praneet Venigalla @pxv24
 4. Cameron White @cfw10166
 5. Mariam Zaman @mad1amz 
+   
 
 ## Problem Description:
 Our project models an operational database for the internal managerial workings of a system that coordinates flights, passengers, luggage, routes, and other aspects for multiple airlines.  The core entity in our model is the Flight entity, which serves as the link between routes, planes, tickets, terminals, and other related entities. Each flight represents an instance of an aircraft journey, complete with flight crew staffing information, passenger and luggage lists, and the tickets issued for the flight. The system supports the storage and reporting of day-to-day operations data for airlines, allowing them to keep track of staffing, ticketing, and luggage management in one place.
