@@ -44,5 +44,5 @@ Overall, the various entities and attributes that the data model captures provid
 <img width="1038" height="664" alt="ticket_dd" src="https://github.com/user-attachments/assets/e0d57563-debf-4415-a720-b82e85fc30b3" />
 <img width="1034" height="832" alt="flight_dd" src="https://github.com/user-attachments/assets/4521315b-1a8a-4312-802f-c67812e5b5db" />
 
-#Queries
+# Queries
 
