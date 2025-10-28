@@ -94,7 +94,7 @@ Flight:
 
 ## Queries
 
-github·<img width="902" height="601" alt="image" src="https://github.com/user-attachments/assets/a7fe0a25-6fc9-46fb-85f3-e61aeb19dab4" />
+<img width="902" height="601" alt="image" src="https://github.com/user-attachments/assets/a7fe0a25-6fc9-46fb-85f3-e61aeb19dab4" />
 
 - Query 1: Lists out all possible roles for an employee and calculates the average salary for each respective role. 
 <img width="397" height="455" alt="image" src="https://github.com/user-attachments/assets/1b064f55-1a90-40ed-9147-9408090c433b" />
