@@ -27,6 +27,8 @@ Airline operations are maintained through the route and flight entities. Airline
 
 Overall, the various entities and attributes that the data model captures provide an overarching view of the inner workings of an airline and its day-to-day operations to support efficient and effective managers.
 
+<img width="1195" height="842" alt="image" src="https://github.com/user-attachments/assets/05011922-3212-4cd9-ace3-7fa80aa4012d" />
+
 ## Data Dictionary 
 
 Airports:
